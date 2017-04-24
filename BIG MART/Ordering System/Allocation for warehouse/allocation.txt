@@ -1,0 +1,8 @@
+Steps for alloacting the items if goods bought is not equal to the total amount
+
+1. Calculate the ratio of increment or decrement between total and bought.
+2. Increase/decrease the order of each store by the ratio.
+3. Adjust the value obtained in step two to the closest multiple of the MOQ.
+4. The values obtained in step 3 are the allocation values.
+5. Return the access (if any).
+

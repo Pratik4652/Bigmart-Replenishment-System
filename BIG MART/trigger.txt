@@ -1,0 +1,13 @@
+store bmcc
+product SAVORY PEANUT BUTTER CREAMY 510G SAVORY 510GM  6 6 (BM11213)
+
+Stock holding Days : 10
+Current Stock on hand : 0
+Minimum Order Quantity (MOQ) : 6
+Minimum Base Quantity (MBQ) : 2
+
+
+store: bmbm
+
+
+if(((C4*D4)-E4)>(0.25*moq))or(((C4*D4)-E4)<moq),moq,(((C4*D4)-E4)*moq)
