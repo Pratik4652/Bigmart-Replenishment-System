@@ -1,0 +1,6 @@
+@ashok dai .. so now things to be implemented are 
+1. Alphabetic sorting in every list.
+2. Date wise view in warehouse view. (history)
+3. Super admin should be able to view the date wise order and stock input of every store.
+4. confirmation in Warehouse stock input.
+5. Approve or deny an allocation by the admin user.
