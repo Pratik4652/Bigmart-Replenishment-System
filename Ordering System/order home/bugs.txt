@@ -1,0 +1,17 @@
+Issue in Fresh long orders module:
+
+Store Orders page:
+1. "Product Title" should be "product Name"
+2. Barcode should be displayed and the the products should be sorted according to barcode
+3. Export Excel missing.
+4. The value in the "Allocation" should not exceed the "Available warehouse stock"
+5. confirmation message after clicking "save"
+
+
+Store Order Allocation Page:
+1. Stock is not being allocated to the store.
+2. "Department filter" not working.
+3. Data is not showing in exported excel file.
+4. "Allocated" column should be added.  
+5. Date filter should not be there in warehouse user.
+6. The store names should be arranged in a alphabetical order.
