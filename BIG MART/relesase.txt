@@ -1,0 +1,11 @@
+Steps to generate allocation:
+1. Upload the new MBQ sheet if MBQ of the products have been updated.Go to MBQ page and and click on "Calculate Active MBQ".
+2. Update the Stock data by clicking on the "Sync with HQ server" in the Stock Data section.
+3. Update the sales data by clicking on the "Sync with HQ server" in the Sales Data section.
+4. Click on "Calculate" button in Calculate Sales Average section to calculate the sales average of all the produts across every store.
+5. Click on the "Calculate raw" button in Calculation replenishment section.
+6. Click on "Pro-rate" button in Calculation replenishment section.
+7. Click on Replenishment in the side menu bar.
+8  Click on "Allocation for warehouse" in the dropdown.(The pro-rated allocation is displayed in this page.)
+9. Click on the "Get Excel" button to download the excel sheet of the allocation.
+
